@@ -1,0 +1,5 @@
+{
+    "python.linting.enabled": false,
+    "jupyter.jupyterServerType": "local",
+    "discord.enabled": false
+}
